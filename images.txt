@@ -1,1 +1,1 @@
-nginx
+onlyoffice/documentserver
