@@ -1,2 +1,1 @@
-onlyoffice/documentserver:7.1.1
-onlyoffice/documentserver
+cooderl/wewe-rss-sqlite:latest
