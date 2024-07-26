@@ -1,3 +1,4 @@
 onlyoffice/documentserver:7.1.1
+onlyoffice/documentserver:7.3
 onlyoffice/documentserver
 
